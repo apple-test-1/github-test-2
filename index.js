@@ -1,5 +1,3 @@
 console.log("apple")
+
 a = 11;
-b = 22;
-c=22;
-apple=33;
