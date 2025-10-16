@@ -5,3 +5,4 @@ c=22;
 apple=33;
 // apple mango
 console.log(new featre a);
+// checking
